@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 public class TestMain {
     public static void main(String[] args) throws IOException {
-        String inputFile = "./test.txt";
+        String inputFile = "resources/test.txt";
         String nextExercise = "\n**********\n";
 
         /*
